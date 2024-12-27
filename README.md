@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in C and its solution. The `bug.c` file contains the erroneous code, while `bugSolution.c` provides the corrected version.  The error results from accessing an array element beyond its valid index range, leading to undefined behavior. The solution adjusts the loop condition to prevent this issue.
